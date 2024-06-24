@@ -14,7 +14,7 @@
   },
   "CONFIGURE_URL": {
     "ENTER_URL": "URL instalacji",
-    "DESCRIPTION": "Jeśli korzystasz z własnej instalacji Chatwoot, wprowadź adres URL serwera. W przeciwnym razie użyj app.chatwoot.com.",
+    "DESCRIPTION": "Jeśli korzystasz z własnej instalacji Chatwoot, wprowadź adres URL serwera. W przeciwnym razie użyj vichat.vitechgroup.vn.",
     "URL_ERROR": "Wprowadź prawidłowy URL",
     "URL_REQUIRED": "URL jest wymagany",
     "CONNECT": "Połącz",

@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "821374676419",
+    "project_id": "vichat-76e07",
+    "storage_bucket": "vichat-76e07.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:821374676419:android:b3060eeeb461aa6b74a176",
+        "android_client_info": {
+          "package_name": "com.chatwoot.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBLszcxdJm4QiOlAQ5pYNlWw9I8dX4x8Ds"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

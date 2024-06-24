@@ -8,7 +8,7 @@ jest.mock('axios');
 const customAttributes = [
   {
     id: 1,
-    attribute_description: 'The date at which the account on app.chatwoot.com was created',
+    attribute_description: 'The date at which the account on vichat.vitechgroup.vn was created',
     attribute_display_name: 'Account Signup On',
     attribute_display_type: 'date',
     attribute_key: 'signedUpAt',
@@ -65,7 +65,7 @@ describe('customAttributeSlice', () => {
         entities: {
           1: {
             id: 1,
-            attribute_description: 'The date at which the account on app.chatwoot.com was created',
+            attribute_description: 'The date at which the account on vichat.vitechgroup.vn was created',
             attribute_display_name: 'Account Signup On',
             attribute_display_type: 'date',
             attribute_key: 'signedUpAt',

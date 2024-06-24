@@ -52,7 +52,7 @@ const ConfigureURLScreenComponent = ({ navigation }) => {
     formState: { errors },
   } = useForm({
     defaultValues: {
-      url: baseUrl ? baseUrl : appName === 'Chatwoot' ? 'app.chatwoot.com' : '',
+      url: baseUrl ? baseUrl : appName === 'Chatwoot' ? 'vichat.vitechgroup.vn' : '',
     },
   });
 
@@ -112,7 +112,7 @@ const ConfigureURLScreenComponent = ({ navigation }) => {
                   error={errors.url}
                   label=""
                   secureTextEntry={false}
-                  placeholder="Eg: app.chatwoot.com"
+                  placeholder="Eg: vichat.vitechgroup.vn"
                 />
               )}
               name="url"

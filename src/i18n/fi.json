@@ -14,7 +14,7 @@
   },
   "CONFIGURE_URL": {
     "ENTER_URL": "Asennuksen URL",
-    "DESCRIPTION": "Jos käytät itse ylläpidettyä Chatwoot asennusta, syötä palvelimen URL-osoite. Muussa tapauksessa käytä osoitetta app.chatwoot.com.",
+    "DESCRIPTION": "Jos käytät itse ylläpidettyä Chatwoot asennusta, syötä palvelimen URL-osoite. Muussa tapauksessa käytä osoitetta vichat.vitechgroup.vn.",
     "URL_ERROR": "Anna kelvollinen URL-osoite",
     "URL_REQUIRED": "URL osoite vaaditaan",
     "CONNECT": "Yhdistä",

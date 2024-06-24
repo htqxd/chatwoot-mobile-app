@@ -62,14 +62,14 @@ export const actions = {
 export const settingsSlice = createSlice({
   name: 'settings',
   initialState: settingAdapter.getInitialState({
-    baseUrl: 'app.chatwoot.com',
-    installationUrl: 'https://app.chatwoot.com/',
+    baseUrl: 'vichat.vitechgroup.vn',
+    installationUrl: 'https://vichat.vitechgroup.vn/',
     isLocaleSet: false,
     isSettingUrl: false,
     isUpdating: false,
     localeValue: 'en',
     notification: {},
-    webSocketUrl: 'wss://app.chatwoot.com/cable',
+    webSocketUrl: 'wss://vichat.vitechgroup.vn/cable',
   }),
   reducers: {
     resetSettings: state => {
